@@ -16,7 +16,7 @@ This repository is hasn't been tested yet, so if you find a bug, please report i
 git clone https://github.com/YoruAkio/GTPS-Backup.git
 ```
 
-2. Install the requirements ikan
+2. Install the requirements
 
 ```bash
 npm install
